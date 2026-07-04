@@ -110,14 +110,15 @@ Through this project, I learned:
 
 ## 📸 Screenshots
 
+
 ### Home Screen
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### Chat Interface
-![Chat](screenshots/chat.png)
+![Chat](chat.png)
 
 ### Help Dialog
-![Help](screenshots/help-dialog.png)
+![Help](help-dialog.png)
 
 ---
 
